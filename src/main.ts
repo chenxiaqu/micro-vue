@@ -1,7 +1,7 @@
 /*
  * @Author: 庞昭昭
  * @Date: 2021-08-06 15:08:01
- * @LastEditTime: 2021-08-10 14:18:13
+ * @LastEditTime: 2021-09-07 15:38:25
  * @LastEditors: 庞昭昭
  * @Description:
  * @FilePath: \micro-vue\src\main.ts
@@ -12,7 +12,6 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
-import "@/components/web-components/sidebar/main.js";
 
 Vue.config.productionTip = false;
 
